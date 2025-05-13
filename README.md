@@ -11,12 +11,12 @@ This is a simple calculator that can perform basic arithmetic operations such as
 - History of calculations (last 10 calculations)
 - Light/Dark Mode
 
-## Requirements
-- Java Development Kit (JDK) 11 or higher
-
 ## Starting the Application
 1. Clone the repository to your local machine
 2. Open the project in your favorite IDE (e.g. VSCode)
 3. Run `chmod +x start.sh` to start the application
 4. Run `./start.sh` to start the application
 5. The calculator GUI will appear and you can start performing calculations
+
+## Requirements
+- Java Development Kit (JDK) 11 or higher
